@@ -17,7 +17,7 @@ import numpy as np
 import rasterio as rio
 import datetime
 from osgeo import gdal,gdal_array
-from 分类结果 import result_Classification
+from Classification_results import result_Classification
 import os
 import mwlr_fun as mf
 
